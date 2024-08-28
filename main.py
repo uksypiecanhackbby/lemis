@@ -55,7 +55,7 @@ def get_base64_image(image_path):
         encoded_image = base64.b64encode(image_file.read()).decode()
     return encoded_image
 
-image_path = "C:/Users/nysap/Downloads/stream/grey_heart.png"
+image_path = "grey_heart.png"
 base64_image = get_base64_image(image_path)
 
 st.markdown(
