@@ -1,0 +1,1483 @@
+[
+  {
+    "medical_facilities": [
+      {
+        "Name": "Millennium Heights Medical Complex",
+        "District": "Castries",
+        "Number": "758-458-6500",
+        "Hours": "Not specified"
+      },
+      {
+        "Name": "Owen King EU Hospital",
+        "District": "Castries",
+        "Number": "1(758)458-6501 / 1(758)458-6500",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "National Mental Wellness Centre",
+        "District": "Castries",
+        "Number": "1(758)458-5959 / 1(758)727-4068 / 1(758)458-6501",
+        "Hours": "8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Turning Point Rehabilitation Centre",
+        "District": "Castries",
+        "Number": "1(758)458-6500 / 1(758)458-6501",
+        "Hours": "8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Castries Health Centre",
+        "District": "Castries",
+        "Number": "+1 758-452-4416 / 1(758)452-4417",
+        "Hours": "8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Babonneau Health Centre",
+        "District": "Gros Islet",
+        "Number": "1(758)468-7720 / 1(758)468-7722",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Dr Long & Associates",
+        "District": "Castries",
+        "Number": "1(758)452-6096",
+        "Hours": "Not specified"
+      },
+      {
+        "Name": "Entrepot Health Centre",
+        "District": "Castries",
+        "Number": "1(758)452-1873",
+        "Hours": "Weekdays 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Grace Health Centre",
+        "District": "Castries",
+        "Number": "1(758)454-8357",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Bexon Health Centre",
+        "District": "Castries",
+        "Number": "1(758)452-1261",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "La Clery Health Centre",
+        "District": "Castries",
+        "Number": "1(758)452-4303",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Ciceron Health Centre",
+        "District": "Castries",
+        "Number": "1(758)453-7934",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Anse La Raye HEALTH & WELLNESS CENTRE",
+        "District": "Anse La Raye",
+        "Number": "1(758)451-4225",
+        "Hours": "8:00 a.m - 4:30 p.m (Saturday 8:00 a.m - 11:45 a.m, Sunday CLOSED)"
+      },
+      {
+        "Name": "Vanard Health Centre",
+        "District": "Anse La Raye",
+        "Number": "1(758)451-4247",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Jacmel Health Centre",
+        "District": "Anse La Raye",
+        "Number": "1(758)451-4004",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "La Croix Maingot Health Centre",
+        "District": "Anse La Raye",
+        "Number": "1(758)468-7737",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Richfond Health Centre",
+        "District": "Dennery",
+        "Number": "1(758)453-3355",
+        "Hours": "8:00 a.m - 4:30 p.m (Saturday 8:00 a.m - 11:45 a.m)"
+      },
+      {
+        "Name": "Dr. G.R. Little Doctor’s Office",
+        "District": "Dennery",
+        "Number": "1(758)453-4274",
+        "Hours": "8:00 a.m - 4:00 p.m (Saturday & Sunday CLOSED)"
+      },
+      {
+        "Name": "Dennery Hospital",
+        "District": "Dennery",
+        "Number": "1(758)453-3310",
+        "Hours": "6:00 a.m - 12:00 a.m"
+      },
+      {
+        "Name": "La Ressource Health Centre",
+        "District": "Dennery",
+        "Number": "1(758)453-3312",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Dennery Respiratory Clinic",
+        "District": "Dennery",
+        "Number": "1(758)453-3310",
+        "Hours": "Monday-Friday 8:00 a.m - 4:00 p.m"
+      },
+      {
+        "Name": "Rodney Bay Medical Centre",
+        "District": "Gros Islet",
+        "Number": "1(758)453-6582 / 1(758)452-8621",
+        "Hours": "Weekdays 8:00 a.m - 5:00 p.m, Saturday 9:00 a.m - 1:00 p.m"
+      },
+      {
+        "Name": "Gros Islet Polyclinic",
+        "District": "Gros Islet",
+        "Number": "1(758)468-7630",
+        "Hours": "8:00 a.m - 12:00 a.m"
+      },
+      {
+        "Name": "Monchy Wellness Centre",
+        "District": "Gros Islet",
+        "Number": "1(758)468-8540",
+        "Hours": "8:00 a.m - 3:00 p.m (CLOSED Saturday & Sundays)"
+      },
+      {
+        "Name": "Monchy Health Centre",
+        "District": "Gros Islet",
+        "Number": "1(758)450-1319",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "La Guerre Health Centre",
+        "District": "Gros Islet",
+        "Number": "1(758)458-9222",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Grand Riviere Health Centre",
+        "District": "Gros Islet",
+        "Number": "1(758)450-1651",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Micoud Fire Station",
+        "District": "Micoud",
+        "Number": "+1 758-455-6180",
+        "Hours": "Not specified"
+      },
+      {
+        "Name": "Micoud Wellness Centre",
+        "District": "Micoud",
+        "Number": "+1 758-468-7957",
+        "Hours": "Not specified"
+      },
+      {
+        "Name": "Micoud Health Centre",
+        "District": "Micoud",
+        "Number": "1(758)454-4230",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Ti Roucher Health Centre",
+        "District": "Micoud",
+        "Number": "1(758)452-3529",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Desruisseaux Health Centre",
+        "District": "Micoud",
+        "Number": "1(758)455-0449",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Soufriere Hospital",
+        "District": "Soufriere",
+        "Number": "1(758)459-7258",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "St. Anthony Medical Hospital",
+        "District": "Soufriere",
+        "Number": "1(758)459-7040",
+        "Hours": "8:00 a.m - 5:00 p.m (Saturday & Sunday CLOSED)"
+      },
+      {
+        "Name": "Etangs Health Centre",
+        "District": "Soufriere",
+        "Number": "1(758)459-7582",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Fond St. Jacques Health Centre",
+        "District": "Soufriere",
+        "Number": "1(758)459-7595",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Soufriere Respiratory Clinic",
+        "District": "Soufriere",
+        "Number": "1(758)459-7258",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Laborie Health Centre",
+        "District": "Laborie",
+        "Number": "+1 (758)454-6930",
+        "Hours": "Monday - Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "La Fargue Health Center",
+        "District": "Choiseul",
+        "Number": "+1 758 459 3238",
+        "Hours": "Monday-Friday 8:00 a.m – 4:30 p.m"
+      },
+      {
+        "Name": "Mongouge Health Center",
+        "District": "Choiseul",
+        "Number": "+1 758 459 3123",
+        "Hours": "Monday-Friday 8:00 a.m – 4:30 p.m"
+      },
+      {
+        "Name": "Saltibus Health Center",
+        "District": "Choiseul",
+        "Number": "+1 758 455 1589",
+        "Hours": "Monday-Friday 8:00 a.m – 4:30 p.m"
+      },
+      {
+        "Name": "Delcer Health Centre",
+        "District": "Choiseul",
+        "Number": "+1 758 459 3971",
+        "Hours": "Monday-Friday 8:00 a.m – 4:30 p.m"
+      },
+      {
+        "Name": "Canaries Wellness Center",
+        "District": "Canaries",
+        "Number": "468-7761 / 468-7762",
+        "Hours": "Not specified"
+      },
+      {
+        "Name": "Vieux Fort Health Center",
+        "District": "Vieux Fort",
+        "Number": "4546337",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m, Saturday 8:00 a.m - 12:00 p.m"
+      },
+      {
+        "Name": "Anthony Medical Center",
+        "District": "Vieux Fort",
+        "Number": "4544040 / 7219358",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m, Saturday and Sunday CLOSED"
+      },
+      {
+        "Name": "Medical and Dental Clinic",
+        "District": "Vieux Fort",
+        "Number": "454-8094",
+        "Hours": "Monday-Saturday 8:00 a.m - 5:00 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "Southern Medical Centre",
+        "District": "Vieux Fort",
+        "Number": "4545018",
+        "Hours": "Not specified"
+      },
+      {
+        "Name": "VF Neuroservice Consultant",
+        "District": "Vieux Fort",
+        "Number": "4559676",
+        "Hours": "Not specified"
+      },
+      {
+        "Name": "St. Jude Hospital",
+        "District": "Vieux Fort",
+        "Number": "4596700",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "The X-Ray and Ultrasound Centre",
+        "District": "Vieux Fort",
+        "Number": "4546151",
+        "Hours": "Monday-Friday 7:30 a.m - 4:00 p.m, Saturday 8:00 a.m - 12:00 p.m, Sun CLOSED"
+      },
+      {
+        "Name": "SKR Diagnostics",
+        "District": "Vieux Fort",
+        "Number": "2874274",
+        "Hours": "Not specified"
+      },
+      {
+        "Name": "Grace Health and Wellness Centre",
+        "District": "Vieux Fort",
+        "Number": "Not specified",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m, Saturday-Sunday CLOSED"
+      },
+      {
+        "Name": "Dr. Jonathan D. Lesfloris and Associates",
+        "District": "Vieux Fort",
+        "Number": "4547475",
+        "Hours": "Monday-Friday 9:00 a.m - 5:00 p.m, Saturday 9:00 a.m - 1:00 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "Nunez Health Service",
+        "District": "Vieux Fort",
+        "Number": "4553391",
+        "Hours": "Friday 11:30 a.m - 5:00 p.m"
+      },
+      {
+        "Name": "Belle Vue Health and Wellness Centre",
+        "District": "Vieux Fort",
+        "Number": "4687975",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m, Saturday-Sunday CLOSED"
+      },
+      {
+        "Name": "Belle Vue Health Centre",
+        "District": "Vieux Fort",
+        "Number": "454-8001",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Medical Imaging Inc",
+        "District": "Vieux Fort",
+        "Number": "4553396",
+        "Hours": "Not specified"
+      },
+      {
+        "Name": "Blackbay Medical Associates",
+        "District": "Vieux Fort",
+        "Number": "4543396",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m, Saturday-Sunday CLOSED"
+      },
+      {
+        "Name": "Dr. Naitram Sybil",
+        "District": "Vieux Fort",
+        "Number": "4543391",
+        "Hours": "Not specified"
+      },
+      {
+        "Name": "Dr. Burt Richard",
+        "District": "Vieux Fort",
+        "Number": "4545050",
+        "Hours": "Monday-Saturday 8:00 a.m - 4:30 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "Dr. Elcock Cyril-Arlette",
+        "District": "Vieux Fort",
+        "Number": "4545878",
+        "Hours": "Not specified"
+      },
+      {
+        "Name": "Dr. Gabriel Sixtus",
+        "District": "Vieux Fort",
+        "Number": "4547082",
+        "Hours": "Not specified"
+      },
+      {
+        "Name": "Fond Assau Health Centre",
+        "District": "Vieux Fort",
+        "Number": "1(758)450-5939",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      },
+      {
+        "Name": "Monday Repos Health Centre",
+        "District": "Vieux Fort",
+        "Number": "1(758)455-3229",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m"
+      }
+    ],
+    "vets": [
+      {
+        "Name": "Veterinary Medical Centre",
+        "District": "Gros Islet",
+        "Number": "4508862",
+        "Hours": "Not specified"
+      },
+      {
+        "Name": "Dr. Keith Scotland",
+        "District": "Castries",
+        "Number": "4524552",
+        "Hours": "Not specified"
+      },
+      {
+        "Name": "Little Paws Vet Clinic and Pet Shop",
+        "District": "Vieux Fort",
+        "Number": "4547087",
+        "Hours": "Monday-Friday 8:30 a.m - 4:30 p.m, Saturday 8:30 a.m - 1:00 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "The Veterinary Hospital (Scotland Veterinary Services Ltd)",
+        "District": "Castries",
+        "Number": "4524552",
+        "Hours": "Monday-Friday 8:30 a.m - 4:30 p.m, Saturday 8:30 a.m - 12:00 p.m, Sunday CLOSED"
+      }
+    ],
+    "dentist": [
+      {
+        "Name": "Optimum Dental and Orthodontics Center",
+        "District": "Castries",
+        "Number": "722-2148",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m, Saturday 8:30 a.m - 12:30 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "Family Dental",
+        "District": "Castries",
+        "Number": "452 3159",
+        "Hours": "Monday-Friday 8:00 a.m - 5:00 p.m, Saturday 9:00 a.m - 1:00 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "Dr. Azmina Long and Associates",
+        "District": "Gros-Islet & Castries",
+        "Number": "452 6096",
+        "Hours": "Monday-Saturday 8:30 a.m - 5:00 p.m"
+      },
+      {
+        "Name": "Gentle Care",
+        "District": "Castries",
+        "Number": "456 0915",
+        "Hours": "Monday-Friday 8:30 a.m - 4:30 p.m, Saturday 8:30 a.m - 12:30 p.m"
+      },
+      {
+        "Name": "Dr. Fadi Abboud",
+        "District": "Castries",
+        "Number": "450 2323",
+        "Hours": "Not specified"
+      },
+      {
+        "Name": "Andre’s Dental Lab",
+        "District": "Castries",
+        "Number": "451 7661",
+        "Hours": "Monday, Wednesday, Friday 9:00 a.m - 5:00 p.m, Tuesday, Thursday 9:00 a.m - 2:00 p.m"
+      },
+      {
+        "Name": "Dr. Jonathan D. Lesfloris and Associates",
+        "District": "Castries",
+        "Number": "452 1422",
+        "Hours": "Monday-Friday 8:30 a.m - 4:30 p.m, Saturday 9:00 a.m - 1:00 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "Worrell Dentistry",
+        "District": "Castries",
+        "Number": "452 4466",
+        "Hours": "Tuesday-Fri 9:00 a.m - 5:00 p.m, Saturday-Monday CLOSED"
+      },
+      {
+        "Name": "La Clery Health Centre",
+        "District": "La Clery Castries",
+        "Number": "468 8531",
+        "Hours": "Monday-Friday 8:00 a.m - 4:00 p.m, Saturday-Sunday CLOSED"
+      },
+      {
+        "Name": "Kurt Glace and Associates",
+        "District": "Rodney Bay Gros-Islet",
+        "Number": "452 3840",
+        "Hours": "Monday-Friday 8:00 a.m - 5:00 p.m, Saturday 9:00 a.m - 12:00 p.m, Sun CLOSED"
+      },
+      {
+        "Name": "Everyday Smiles Dental Clinic",
+        "District": "Castries",
+        "Number": "451 6161",
+        "Hours": "Not specified"
+      },
+      {
+        "Name": "Paul Archibald DDS General Dentist",
+        "District": "Castries",
+        "Number": "453 6041",
+        "Hours": "Monday-Thursday 9:00 a.m - 5:00 p.m, Fri 10:00 a.m - 3:30 p.m, Saturday 10:00 a.m - 12:00 p.m, Sun CLOSED"
+      },
+      {
+        "Name": "Caribbean Smiles Orthodontist",
+        "District": "Gros-Islet",
+        "Number": "453 0000",
+        "Hours": "Monday-Thursday 9:00 a.m - 5:00 p.m, Fri 9:00 a.m - 4:00 p.m, Saturday-Sunday CLOSED"
+      },
+      {
+        "Name": "Sunshine Dental",
+        "District": "Gros Islet",
+        "Number": "453 7697",
+        "Hours": "Monday, Tuesday, Thursday 9:00 a.m - 2:30 p.m, Fri 9:00 a.m - 1:00 p.m, Saturday 9:30 a.m - 5:00 p.m, Sunday, Wednesday CLOSED"
+      },
+      {
+        "Name": "Caring Touch Dental Clinic",
+        "District": "Castries",
+        "Number": "450 0096",
+        "Hours": "Monday-Thursday 9:00 a.m - 4:30 p.m, Fri 9:00 a.m - 1:00 p.m, Saturday 9:00 a.m - 12:00 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "St. Lucia Medical and Dental Association",
+        "District": "Castries",
+        "Number": "451 8441",
+        "Hours": "Not specified"
+      },
+      {
+        "Name": "Sampsons Dental",
+        "District": "Castries",
+        "Number": "715 6209",
+        "Hours": "Monday-Saturday 8:30 a.m - 12:00 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "Creative Smiles Dental Clinic",
+        "District": "Soufriere",
+        "Number": "713 9600",
+        "Hours": "Monday-Friday 9:00 a.m - 4:00 p.m, Saturday 9:00 a.m - 12:00 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "Medical and Dental Clinic",
+        "District": "Vieux Fort",
+        "Number": "454 8094",
+        "Hours": "Monday, Tuesday, Thursday, Friday, Saturday 8:00 a.m - 5:00 p.m"
+      },
+      {
+        "Name": "SLU CUBAN Dental Care",
+        "District": "Castries",
+        "Number": "461 4954",
+        "Hours": "Monday-Friday 8:30 a.m - 4:00 p.m, Saturday 8:30 a.m - 12:30 p.m, Sunday CLOSED"
+      }
+    ],
+    "eye_specialist": [
+      {
+        "Name": "Bèl Zyé Eye Care",
+        "District": "Castries",
+        "Number": "(758)572-9800",
+        "Hours": "Monday-Friday 8:30 a.m - 4:30 p.m, Saturday 8:30 a.m - 12:30 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "St. Lucia Eye Centre",
+        "District": "Castries",
+        "Number": "(758)452-4455",
+        "Hours": "Monday-Friday 8:30 a.m - 4:30 p.m, Saturday 9:00 a.m - 12:30 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "Optipharm Eye Centre St. Lucia (Dr. Benet C. Henry MD Consultant Ophthalmologist Eye Specialist/Surgeon)",
+        "District": "Castries",
+        "Number": "(758)451-7877",
+        "Hours": "Monday-Friday 9:00 a.m - 5:00 p.m, Saturday-Sunday CLOSED"
+      },
+      {
+        "Name": "Vision Express",
+        "District": "Castries",
+        "Number": "(758)457-7416",
+        "Hours": "Monday-Friday 8:00 a.m - 5:00 p.m, Saturday 8:00 a.m - 1:00 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "Family Eye Care",
+        "District": "Gros Islet",
+        "Number": "(758)458-0334",
+        "Hours": "Monday-Friday 9:00 a.m - 6:00 p.m, Saturday 10:00 a.m - 6:00 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "Bèl Zyé Eye Care",
+        "District": "Gros Islet",
+        "Number": "(758)572-0608",
+        "Hours": "Monday-Friday 9:00 a.m - 5:00 p.m, Saturday-Sunday CLOSED"
+      },
+      {
+        "Name": "St. Lucia Eye Centre",
+        "District": "Gros Islet",
+        "Number": "(758)458-0334",
+        "Hours": "Mondaydayday, Tuesday, Saturday 9:00 a.m - 6:00 p.m, Wednesday & Friday 10:00 a.m - 6:00 p.m, Thursday-Sunday CLOSED"
+      },
+      {
+        "Name": "St. Lucia Blind Welfare Association/Eye Care St. Lucia",
+        "District": "Castries",
+        "Number": "(758)452-4691",
+        "Hours": "Monday-Friday 9:00 a.m - 1:30 p.m, Saturday-Sunday CLOSED"
+      },
+      {
+        "Name": "Vision Express",
+        "District": "Gros Islet",
+        "Number": "(758)457-7420",
+        "Hours": "Monday-Saturday 8:30 a.m - 6:00 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "Vision Express",
+        "District": "Sunny Acres/Gros Islet",
+        "Number": "(758)457-7418",
+        "Hours": "Monday-Saturday 8:00 a.m - 6:00 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "Saint Lucia Eye Hospital",
+        "District": "Gros Islet",
+        "Number": "(758)287-2020",
+        "Hours": "Monday-Saturday 9:00 a.m - 5:00 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "A1 Optical S. Lucia",
+        "District": "Vieux Fort",
+        "Number": "(758)714-6069",
+        "Hours": "Monday 8:30 a.m - 4:00 p.m, Tuesday-Friday 8:00 a.m - 4:00 p.m, Saturday 9:00 a.m - 2:00 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "St. Lucia Eye Centre",
+        "District": "Vieux Fort",
+        "Number": "(758)454-6500",
+        "Hours": "Monday-Saturday 9:00 a.m - 3:00 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "Vision Express St. Lucia",
+        "District": "Vieux Fort",
+        "Number": "(758)457-7400",
+        "Hours": "Monday-Saturday 8:30 a.m - 6:00 p.m, Sunday CLOSED"
+      },
+      {
+        "Name": "Insight Eye Care Services/Dr. Darra Burt",
+        "District": "Vieux Fort",
+        "Number": "(758)486-3937",
+        "Hours": "Monday, Tuesday, Thursday, Friday 9:00 a.m - 4:00 p.m, Saturday 9:00 a.m - 3:00 p.m, Wednesday & Sunday CLOSED"
+      }
+    ],
+    "fire_station": [
+      {
+        "Name": "Castries Fire Service Headquarters",
+        "District": "Castries",
+        "Number": "(758)455-6117",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m, Saturday-Sunday CLOSED"
+      },
+      {
+        "Name": "Castries Fire Station",
+        "District": "Castries",
+        "Number": "(758)452-2373",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Babonneau Fire Station",
+        "District": "Gros Islet",
+        "Number": "(758)455-6188",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Saint Lucia Fire Station",
+        "District": "Gros Islet",
+        "Number": "Not Specified",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Dennery Fire Station",
+        "District": "Dennery",
+        "Number": "(758)455-6170",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Soufriere Fire Station",
+        "District": "Soufriere",
+        "Number": "(758)459-7448",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Crash Fire Hall (Aerodrome Fire Station)",
+        "District": "Vieux Fort",
+        "Number": "(758)455-6161",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Micoud Fire Station",
+        "District": "Micoud",
+        "Number": "(758)455-6180",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Vieux Fort Fire Service",
+        "District": "Vieux Fort",
+        "Number": "(758)455-6150",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "George Charles Fire Hall",
+        "District": "Castries",
+        "Number": "(758)455-6109",
+        "Hours": "Monday 9:00 a.m - 12:00 a.m, Tuesday-Sunday 24/7"
+      }
+    ],
+    "police_station": [
+      {
+        "Name": "Royal St. Lucia Police Force Headquarters",
+        "District": "Castries",
+        "Number": "(758)456-3712",
+        "Hours": "Monday-Friday 8:00 a.m - 4:30 p.m, Saturday-Sunday CLOSED"
+      },
+      {
+        "Name": "Marigot Police Station",
+        "District": "Gros Islet",
+        "Number": "(758)456-3895",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Marchard Police Station",
+        "District": "Castries",
+        "Number": "(758)456-3885",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Royal St. Lucia Police Force Marine Police Unit",
+        "District": "Castries",
+        "Number": "(758)456-3871",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Central Police Station",
+        "District": "Castries",
+        "Number": "(758)456-3850",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Gros Islet Police Station",
+        "District": "Gros Islet",
+        "Number": "(758)456-3830",
+        "Hours": "Monday-Sunday 12:00 a.m - 11:30 p.m"
+      },
+      {
+        "Name": "Babonneau Police Station",
+        "District": "Gros Islet",
+        "Number": "(758)456-4120",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Richfond Police Station",
+        "District": "Dennery",
+        "Number": "(758)456-3690",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Dennery Police Station",
+        "District": "Dennery",
+        "Number": "(758)456-4090",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Ports Police (SLASPA)",
+        "District": "Castries",
+        "Number": "(758)457-6154",
+        "Hours": "Monday-Friday 8:00 a.m - 12:30 p.m, 1:30 p.m - 4:30 p.m, Saturday-Sunday CLOSED"
+      },
+      {
+        "Name": "Anse La Raye Police Station",
+        "District": "Anse La Raye",
+        "Number": "(758)456-3600",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Rodney Bay Police Station",
+        "District": "Gros Islet",
+        "Number": "(758)456-4061",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Soufriere Police Station",
+        "District": "Soufriere",
+        "Number": "(758)456-3620",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Gros-Islet Police Station",
+        "District": "Gros Islet",
+        "Number": "(758)456-3670",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Traffic Department",
+        "District": "Castries",
+        "Number": "(758)456-3736",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Canaries Police Station",
+        "District": "Canaries",
+        "Number": "(758)456-3610",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Saint Lucia Police Traffic Department",
+        "District": "Castries",
+        "Number": "(758)456-3736"
+      },
+      {
+        "Name": "Police Commissioner’s Office",
+        "District": "Castries",
+        "Number": "Not Specified"
+      },
+      {
+        "Name": "Vieux Fort Police",
+        "District": "Vieux Fort",
+        "Number": "(758)456-3905",
+        "Hours": "24/7"
+      },
+      {
+        "Name": "Micoud Police Station",
+        "District": "Micoud",
+        "Number": "(758)456-3645",
+        "Hours": "24/7"
+      }
+    ],
+    "emergency_contacts": [
+      {
+        "Contact": "Police",
+        "Number": "999"
+      },
+      {
+        "Contact": "Police Headquarters Castries",
+        "Number": "1(758)456-3990"
+      },
+      {
+        "Contact": "Marine Police",
+        "Number": "1(758)456-3871"
+      },
+      {
+        "Contact": "Ambulance",
+        "Number": "911"
+      },
+      {
+        "Contact": "Castries Fire Station",
+        "Number": "1(758)455-6100"
+      },
+      {
+        "Contact": "Vieux Fort Police Station",
+        "Number": "1(758)456-3905/1(758)456-3906"
+      },
+      {
+        "Contact": "Soufriere Police Station",
+        "District": "Soufriere",
+        "Number": "1(758)456-3620"
+      },
+      {
+        "Contact": "Richfond Police Station",
+        "District": "Dennery",
+        "Number": "1(758)456-3690"
+      },
+      {
+        "Contact": "Crime Hotline",
+        "Number": "1(758)451-9812"
+      },
+      {
+        "Contact": "National Emergency Management Organisation",
+        "Number": "1(758)452-3802"
+      },
+      {
+        "Contact": "Dennery Police Station",
+        "Number": "1(758)456-4090"
+      },
+      {
+        "Contact": "Mental Wellness Centre",
+        "Number": "1(758)452-2289"
+      },
+      {
+        "Contact": "Gros-Islet Polyclinic",
+        "Number": "1(758)450-9661"
+      },
+      {
+        "Contact": "Soufriere Hospital",
+        "Number": "1(758)459-7258"
+      },
+      {
+        "Contact": "St. Judes Hospital",
+        "District": "Vieux Fort",
+        "Number": "1(758)454-6041"
+      },
+      {
+        "Contact": "Tapion Hospital",
+        "District": "Castries",
+        "Number": "1(758)459-2000"
+      },
+      {
+        "Contact": "Victoria Hospital",
+        "District": "Castries",
+        "Number": "1(758)452-2421"
+      }
+    ],
+    "doctors": [
+      {
+        "Dr. Merle Clarke": "Nephrologist",
+        "Dr. Nadia Samuel": "Obstetrics and Gynecology",
+        "Dr. J.R. Daniel": "Cardiologist/Internal Medicine/ Board Chairman",
+        "Dr. Leonard Surage": "E.N.T Director",
+        "Dr. M. Grandison-Didier": "Dermatologist",
+        "Dr. Martin Didier": "Cardiologist/ Internal Medicine",
+        "Dr. Horatius": "Orthopedic Surgeon/ Medical Director",
+        "Dr. Cleipatre Altenor": "General Practitioner",
+        "Dr. Aylwin Benjamin": "Internist",
+        "Professor Esteban Roig Fabre": "Neurosurgeon",
+        "Dr. Curby Dwaine Sydney": "Neurosurgeon",
+        "Dr. Charles Greenidge": "General and Vascular Surgeon/ Director",
+        "Dr. D. Kabiye": "General Surgeon",
+        "Dr. Juluis Gilliard": "Psychiatrist",
+        "Dr. Takira Glasgow": "Diabetes Physician",
+        "Dr. Amanda King": "Rheumatologist",
+        "Dr. David Brathwaite": "Urologist",
+        "Dr. Tamara Remy": "General Surgeon",
+        "Dr. Jacqueline Bird": "Pediatrician",
+        "Dr. Stephen King": "Pathologist",
+        "Dr. Jana Phillip": "Emergency doctor",
+        "Dr. Vernor": "Emergency",
+        "Dr. Pierre Minvielle": "Emergency",
+        "Dr. A. Lalsingh": "Dermatologist",
+        "Dr. Spencer Semeii": "Anesthesiologist",
+        "Dr. A. St. Rose": "Gastroenterologist/ Cardiologist",
+        "Dr. P. St. Rose": "Obstetrics and Gynecology",
+        "Dr. C. Parris": "Obstetrics and Gynecology",
+        "Dr. H. Marius": "Obstetrics and Gynecology",
+        "Dr. I. Simmons": "Pediatrician",
+        "Dr. K. Gardner": "Pediatrician",
+        "Dr. Lowell A. Hughes": "Plastics Surgeon",
+        "Dr. M. Kannan": "Anesthesiologist",
+        "Dr. Martin Plummer": "Pediatrician/ Director",
+        "Dr. Tartabull": "Anesthesiologist",
+        "Dr. Naveen": "Radiologist",
+        "Dr. O. Gabriel": "Oncologist",
+        "Dr. P. Monrose-Peters": "Pediatrician",
+        "Dr. R. Bellance": "Neurologist",
+        "Dr. R.G. Swamy": "Psychiatrist",
+        "Dr. Cenac": "Cardiologist",
+        "Dr. Anthony": "Emergency",
+        "Dr. Niles": "Emergency"
+      }
+    ],
+    "pricing_information": [
+      {
+        "Blood Work": "$15-$70",
+        "CT Scan": "$600-$2500",
+        "MRI": "OKEU does not offer MRI scans nor St Jude's Hospital. There are 2 MRI machines: one at Tapion and one at La Clinic Du Corps. The price varies depending on the scan but it's between 600 to 2500 XCD."
+      }
+    ],
+    "acute_illnesses": [
+      {
+        "name": "Influenza (Flu)",
+        "description": "A viral infection that affects the respiratory system, including the nose, throat, and lungs.",
+        "symptoms": [
+          "High fever",
+          "Body aches",
+          "Fatigue",
+          "Cough",
+          "Sore throat",
+          "Congestion"
+        ],
+        "duration": "Usually lasts 1 to 2 weeks."
+      },
+      {
+        "name": "Appendicitis",
+        "description": "Inflammation of the appendix, a small tube attached to the large intestine.",
+        "symptoms": [
+          "Sharp abdominal pain, usually starting near the navel and then moving to the lower right side",
+          "Nausea",
+          "Vomiting",
+          "Fever"
+        ],
+        "duration": "Requires immediate medical attention; often treated with surgery."
+      },
+      {
+        "name": "Common Cold",
+        "description": "A viral infection of the upper respiratory tract, primarily caused by rhinoviruses.",
+        "symptoms": [
+          "Runny nose",
+          "Sore throat",
+          "Cough",
+          "Congestion",
+          "Sneezing",
+          "Mild body aches"
+        ],
+        "duration": "Usually resolves within 7 to 10 days."
+      },
+      {
+        "name": "Gastroenteritis (Stomach Flu)",
+        "description": "Inflammation of the stomach and intestines, usually caused by viral, bacterial, or parasitic infections.",
+        "symptoms": [
+          "Nausea",
+          "Vomiting",
+          "Diarrhea",
+          "Abdominal pain",
+          "Sometimes fever"
+        ],
+        "duration": "Typically lasts 1 to 3 days."
+      },
+      {
+        "name": "Strep Throat",
+        "description": "A bacterial infection caused by Streptococcus bacteria, affecting the throat and tonsils.",
+        "symptoms": [
+          "Severe sore throat",
+          "Pain when swallowing",
+          "Fever",
+          "Swollen lymph nodes",
+          "Red or white patches on the tonsils"
+        ],
+        "duration": "Usually treated with antibiotics; symptoms often improve within a few days."
+      },
+      {
+        "name": "Pneumonia",
+        "description": "An infection that inflames the air sacs in one or both lungs, which may fill with fluid.",
+        "symptoms": [
+          "Cough with phlegm or pus",
+          "Fever",
+          "Chills",
+          "Difficulty breathing"
+        ],
+        "duration": "Can range from a week to several weeks, depending on severity and treatment."
+      },
+      {
+        "name": "Migraine",
+        "description": "A type of headache characterized by severe, throbbing pain, often on one side of the head.",
+        "symptoms": [
+          "Intense headache",
+          "Nausea",
+          "Vomiting",
+          "Sensitivity to light and sound"
+        ],
+        "duration": "Typically lasts from a few hours to a few days."
+      },
+      {
+        "name": "Acute Bronchitis",
+        "description": "Inflammation of the bronchial tubes, often following a cold or respiratory infection.",
+        "symptoms": [
+          "Persistent cough",
+          "Production of mucus",
+          "Fatigue",
+          "Slight fever",
+          "Chest discomfort"
+        ],
+        "duration": "Usually lasts a few days to a few weeks."
+      }
+    ],
+    "chronic_illnesses": [
+      {
+        "name": "Diabetes Mellitus",
+        "description": "A metabolic disorder characterized by high blood sugar levels due to the body's inability to produce enough insulin (Type 1) or effectively use insulin (Type 2).",
+        "duration": "Lifelong condition.",
+        "symptoms": [
+          "Increased thirst and urination",
+          "Fatigue",
+          "Blurred vision",
+          "Slow healing of wounds",
+          "Numbness or tingling in the hands or feet (more common in Type 2)"
+        ]
+      },
+      {
+        "name": "Hypertension (High Blood Pressure)",
+        "description": "A condition where the force of the blood against the artery walls is consistently too high, which can lead to serious health issues like heart disease.",
+        "duration": "Lifelong condition if not properly managed.",
+        "symptoms": [
+          "Often asymptomatic (known as the 'silent killer')",
+          "Severe cases may cause headaches, shortness of breath, or nosebleeds"
+        ]
+      },
+      {
+        "name": "Chronic Obstructive Pulmonary Disease (COPD)",
+        "description": "A group of lung diseases, including emphysema and chronic bronchitis, that cause airflow blockage and breathing problems.",
+        "duration": "Lifelong, progressively worsening condition.",
+        "symptoms": [
+          "Persistent cough with mucus",
+          "Shortness of breath, especially during physical activity",
+          "Wheezing",
+          "Frequent respiratory infections",
+          "Fatigue"
+        ]
+      },
+      {
+        "name": "Rheumatoid Arthritis",
+        "description": "An autoimmune disorder where the immune system mistakenly attacks the joints, leading to inflammation and joint damage.",
+        "duration": "Lifelong condition with periods of flare-ups and remission.",
+        "symptoms": [
+          "Joint pain and stiffness, especially in the morning or after inactivity",
+          "Swollen, tender joints",
+          "Fatigue",
+          "Fever",
+          "Loss of appetite"
+        ]
+      },
+      {
+        "name": "Asthma",
+        "description": "A chronic lung disease that inflames and narrows the airways, causing difficulty breathing.",
+        "duration": "Lifelong condition, often manageable with treatment.",
+        "symptoms": [
+          "Shortness of breath",
+          "Wheezing",
+          "Chest tightness",
+          "Coughing, particularly at night or early in the morning"
+        ]
+      },
+      {
+        "name": "Chronic Kidney Disease (CKD)",
+        "description": "A gradual loss of kidney function over time, leading to the buildup of waste in the body.",
+        "duration": "Lifelong condition, which may progress to end-stage kidney disease requiring dialysis or a kidney transplant.",
+        "symptoms": [
+          "Fatigue",
+          "Swelling in legs, ankles, or feet (edema)",
+          "Shortness of breath",
+          "High blood pressure",
+          "Changes in urination frequency"
+        ]
+      },
+      {
+        "name": "Multiple Sclerosis (MS)",
+        "description": "An autoimmune disease where the immune system attacks the protective covering of nerves, leading to communication problems between the brain and the rest of the body.",
+        "duration": "Lifelong condition with varying degrees of severity and progression.",
+        "symptoms": [
+          "Numbness or weakness in limbs",
+          "Partial or complete loss of vision",
+          "Tingling or pain in parts of the body",
+          "Tremors",
+          "Fatigue",
+          "Difficulty with coordination and balance"
+        ]
+      },
+      {
+        "name": "Coronary Artery Disease (CAD)",
+        "description": "A condition where the coronary arteries, which supply blood to the heart muscle, become narrowed or blocked, leading to heart disease.",
+        "duration": "Lifelong condition, often managed with medication and lifestyle changes.",
+        "symptoms": [
+          "Chest pain (angina)",
+          "Shortness of breath",
+          "Fatigue",
+          "Heart attack (in severe cases)"
+        ]
+      },
+      {
+        "name": "Parkinson’s Disease",
+        "description": "A neurodegenerative disorder that affects movement, leading to tremors, stiffness, and difficulty with balance and coordination.",
+        "duration": "Lifelong, progressively worsening condition.",
+        "symptoms": [
+          "Tremor (shaking) at rest",
+          "Slowed movement (bradykinesia)",
+          "Rigid muscles",
+          "Impaired posture and balance",
+          "Speech and writing changes"
+        ]
+      },
+      {
+        "name": "Irritable Bowel Syndrome (IBS)",
+        "description": "A chronic gastrointestinal disorder characterized by abdominal pain and changes in bowel habits without any visible signs of damage or disease in the digestive tract.",
+        "duration": "Long-term, manageable condition.",
+        "symptoms": [
+          "Abdominal pain or cramping",
+          "Bloating",
+          "Gas",
+          "Diarrhea, constipation, or alternating between both",
+          "Mucus in stool"
+        ]
+      }
+    ],
+    "subacute_illnesses": [
+      {
+        "name": "Subacute Bacterial Endocarditis (SBE)",
+        "description": "An infection of the inner lining of the heart chambers and valves, usually caused by bacteria.",
+        "duration": "Typically lasts weeks to months.",
+        "symptoms": [
+          "Low-grade fever",
+          "Fatigue",
+          "Night sweats",
+          "Weight loss",
+          "Muscle and joint pain",
+          "Small red spots on the skin or under the nails (petechiae)"
+        ],
+        "additional_information": "SBE develops more slowly than acute bacterial endocarditis, which is more severe and rapidly progressing."
+      },
+      {
+        "name": "Subacute Thyroiditis",
+        "description": "Inflammation of the thyroid gland, often following a viral infection.",
+        "duration": "Usually lasts for weeks to months.",
+        "symptoms": [
+          "Pain in the neck or throat",
+          "Tenderness in the thyroid gland",
+          "Fever",
+          "Fatigue",
+          "Initial hyperthyroid symptoms (nervousness, rapid heart rate) followed by hypothyroid symptoms (fatigue, weight gain)"
+        ],
+        "additional_information": "Subacute thyroiditis often resolves on its own, but it can sometimes lead to temporary or permanent hypothyroidism."
+      },
+      {
+        "name": "Subacute Combined Degeneration (SCD)",
+        "description": "A neurological condition resulting from vitamin B12 deficiency, affecting the spinal cord.",
+        "duration": "Develops over weeks to months if untreated.",
+        "symptoms": [
+          "Weakness and numbness in the legs",
+          "Difficulty walking",
+          "Cognitive changes or memory problems",
+          "Loss of position sense (knowing where your limbs are in space)"
+        ],
+        "additional_information": "Early diagnosis and treatment with vitamin B12 can prevent progression and improve symptoms."
+      },
+      {
+        "name": "Subacute Cutaneous Lupus Erythematosus (SCLE)",
+        "description": "A form of lupus characterized by skin lesions that are more prolonged than those in acute lupus but not as chronic as discoid lupus.",
+        "duration": "Lesions can persist for weeks to months.",
+        "symptoms": [
+          "Red, scaly patches on sun-exposed areas of the skin",
+          "Fatigue",
+          "Joint pain"
+        ],
+        "additional_information": "SCLE often responds well to treatment with sun protection and topical or systemic medications."
+      },
+      {
+        "name": "Subacute Sclerosing Panencephalitis (SSPE)",
+        "description": "A rare, progressive brain disorder caused by a persistent infection with the measles virus.",
+        "duration": "Develops gradually over months to years, but is considered subacute because of its initial prolonged course before becoming progressive.",
+        "symptoms": [
+          "Behavioral changes",
+          "Memory loss",
+          "Seizures",
+          "Motor dysfunction (e.g., muscle spasms, unsteady gait)"
+        ],
+        "additional_information": "SSPE is fatal without treatment, but early intervention can slow the progression."
+      }
+    ],
+    "infectious_diseases": [
+      {
+        "name": "Influenza (Flu)",
+        "description": "A viral infection caused by influenza viruses that primarily affects the respiratory system.",
+        "duration": "Typically lasts 1-2 weeks, with most people recovering within a week, though fatigue may persist longer.",
+        "symptoms": [
+          "Fever",
+          "Chills",
+          "Cough",
+          "Sore throat",
+          "Runny or stuffy nose",
+          "Muscle or body aches",
+          "Headaches",
+          "Fatigue",
+          "Sometimes vomiting and diarrhea (more common in children)"
+        ]
+      },
+      {
+        "name": "Tuberculosis (TB)",
+        "description": "A bacterial infection caused by Mycobacterium tuberculosis, primarily affecting the lungs, but it can also affect other parts of the body.",
+        "duration": "If untreated, TB can last for months or even years. Treatment usually lasts 6-9 months with antibiotics.",
+        "symptoms": [
+          "Persistent cough (sometimes with blood)",
+          "Chest pain",
+          "Weakness or fatigue",
+          "Weight loss",
+          "Loss of appetite",
+          "Chills",
+          "Fever",
+          "Night sweats"
+        ]
+      },
+      {
+        "name": "HIV/AIDS",
+        "description": "HIV (Human Immunodeficiency Virus) is a virus that attacks the immune system, leading to AIDS (Acquired Immunodeficiency Syndrome) if not treated. HIV is a chronic condition.",
+        "duration": "Lifelong, as the virus remains in the body. With antiretroviral therapy (ART), individuals can manage the condition and live long, healthy lives.",
+        "symptoms": [
+          "Early HIV infection may cause flu-like symptoms",
+          "Weight loss",
+          "Recurring fever or night sweats",
+          "Extreme fatigue",
+          "Frequent infections"
+        ]
+      },
+      {
+        "name": "Malaria",
+        "description": "A parasitic disease transmitted by the bite of infected Anopheles mosquitoes, caused by Plasmodium parasites.",
+        "duration": "Without treatment, malaria can be fatal. With treatment, the disease can last from several days to a few weeks.",
+        "symptoms": [
+          "Fever",
+          "Chills",
+          "Headache",
+          "Nausea and vomiting",
+          "Muscle pain",
+          "Fatigue",
+          "Sweating",
+          "Sometimes diarrhea"
+        ]
+      },
+      {
+        "name": "COVID-19",
+        "description": "A viral infection caused by the SARS-CoV-2 virus, which primarily affects the respiratory system but can have widespread effects on various organs.",
+        "duration": "Symptoms can last from a few days to several weeks. Severe cases can lead to long-term effects known as 'Long COVID.'",
+        "symptoms": [
+          "Fever",
+          "Cough",
+          "Shortness of breath",
+          "Fatigue",
+          "Muscle or body aches",
+          "Headache",
+          "New loss of taste or smell",
+          "Sore throat",
+          "Congestion or runny nose",
+          "Nausea or vomiting",
+          "Diarrhea"
+        ]
+      },
+      {
+        "name": "Strep Throat",
+        "description": "A bacterial infection caused by Streptococcus pyogenes that affects the throat and tonsils.",
+        "duration": "With antibiotic treatment, strep throat usually resolves within 10 days. Without treatment, it may last longer and can lead to complications.",
+        "symptoms": [
+          "Sore throat",
+          "Pain when swallowing",
+          "Fever",
+          "Red and swollen tonsils (sometimes with white patches or streaks of pus)",
+          "Tiny red spots on the roof of the mouth",
+          "Swollen lymph nodes in the neck"
+        ]
+      },
+      {
+        "name": "Lyme Disease",
+        "description": "A bacterial infection caused by Borrelia burgdorferi, transmitted by the bite of infected black-legged ticks.",
+        "duration": "Early treatment with antibiotics can lead to recovery within weeks. If untreated, the disease can persist for months or even years.",
+        "symptoms": [
+          "Early symptoms include fever, chills, headache, fatigue, muscle and joint aches, and a characteristic 'bull's-eye' skin rash.",
+          "Later stages can involve severe headaches, neck stiffness, arthritis with severe joint pain and swelling, facial palsy, and heart palpitations."
+        ]
+      }
+    ],
+    "genetic_disorders": [
+      {
+        "name": "Sickle Cell Anemia",
+        "description": "Sickle cell anemia is a hereditary blood disorder caused by a mutation in the hemoglobin gene. It leads to the production of abnormal hemoglobin (HbS), causing red blood cells to become rigid, sticky, and shaped like sickles or crescent moons.",
+        "duration": "Lifelong condition.",
+        "symptoms": [
+          "Episodes of severe pain (called sickle cell crises)",
+          "Anemia (fatigue, weakness)",
+          "Frequent infections",
+          "Delayed growth in children",
+          "Vision problems",
+          "Swelling in hands and feet"
+        ]
+      },
+      {
+        "name": "Thalassemia",
+        "description": "Thalassemia is a group of inherited blood disorders that affect the body's ability to produce hemoglobin and red blood cells. In the Caribbean, beta-thalassemia is more common.",
+        "duration": "Lifelong condition.",
+        "symptoms": [
+          "Fatigue and weakness",
+          "Pale or yellowish skin",
+          "Facial bone deformities",
+          "Slow growth",
+          "Abdominal swelling due to an enlarged spleen or liver",
+          "Dark urine"
+        ]
+      },
+      {
+        "name": "Glucose-6-Phosphate Dehydrogenase (G6PD) Deficiency",
+        "description": "G6PD deficiency is a genetic enzyme deficiency that can lead to hemolytic anemia, particularly after exposure to certain foods, medications, or infections.",
+        "duration": "Lifelong condition.",
+        "symptoms": [
+          "Fatigue and weakness",
+          "Rapid heart rate",
+          "Shortness of breath",
+          "Dark-colored urine",
+          "Jaundice (yellowing of the skin and eyes)",
+          "In severe cases, kidney failure"
+        ]
+      },
+      {
+        "name": "Cystic Fibrosis",
+        "description": "Cystic fibrosis is a genetic disorder that affects the exocrine glands, leading to the production of thick, sticky mucus that can clog the lungs and obstruct the pancreas.",
+        "duration": "Lifelong condition, but life expectancy can vary depending on management and complications.",
+        "symptoms": [
+          "Persistent cough with thick mucus",
+          "Frequent lung infections (e.g., pneumonia, bronchitis)",
+          "Wheezing and shortness of breath",
+          "Poor growth or weight gain",
+          "Salty-tasting skin",
+          "Digestive issues (e.g., greasy stools, difficulty absorbing nutrients)"
+        ]
+      },
+      {
+        "name": "Hereditary Breast and Ovarian Cancer Syndrome (BRCA1/BRCA2 Mutations)",
+        "description": "Mutations in the BRCA1 and BRCA2 genes significantly increase the risk of developing breast and ovarian cancers. This is seen in populations with specific ancestry links, including some Caribbean populations.",
+        "duration": "The mutation is lifelong, but cancer may develop later in life.",
+        "symptoms": [
+          "Early onset breast cancer (before age 50)",
+          "Multiple family members with breast or ovarian cancer",
+          "Presence of breast cancer in both breasts or multiple primary cancers in the same individual",
+          "Increased risk of male breast cancer, prostate cancer, and pancreatic cancer in family history"
+        ]
+      },
+      {
+        "name": "Hemophilia",
+        "description": "Hemophilia is a rare genetic disorder where the blood doesn't clot properly due to the lack of specific clotting factors. Hemophilia A (Factor VIII deficiency) and Hemophilia B (Factor IX deficiency) are the most common forms.",
+        "duration": "Lifelong condition.",
+        "symptoms": [
+          "Excessive bleeding from cuts or injuries",
+          "Unexplained and excessive bruising",
+          "Frequent nosebleeds",
+          "Bleeding into joints, leading to pain and swelling",
+          "Prolonged bleeding after surgery or dental procedures"
+        ]
+      }
+    ]
+  },
+  {
+    "MD Fees": {
+      "General MD": {
+        "Service Provider A": 60,
+        "Service Provider B": "80 - 100"
+      },
+      "Specialist MD": {
+        "Service Provider A": 80,
+        "Service Provider B": "100 - 180"
+      }
+    },
+    "Insulin Treatment": {
+      "Service Provider A": 20,
+      "Service Provider B": 40
+    },
+    "Hypertension Treatment": {
+      "Service Provider A": "0.50 per tablet",
+      "Service Provider B": "$10 per tablet"
+    },
+    "X-ray": {
+      "Service Provider A": 200,
+      "Service Provider B": 350
+    },
+    "MRI": {
+      "Service Provider A": 600,
+      "Service Provider B": 800
+    },
+    "CT Scan": {
+      "Service Provider A": 1100,
+      "Service Provider B": 1200
+    },
+    "Ultrasound": {
+      "Service Provider A": 250,
+      "Service Provider B": 450
+    },
+    "Mammogram": {
+      "Service Provider A": 100,
+      "Service Provider B": 250
+    },
+    "Prostate Test": {
+      "Service Provider A": 100,
+      "Service Provider B": 200
+    },
+    "Endoscopy": {
+      "Service Provider A": 800,
+      "Service Provider B": 1200
+    },
+    "Dialysis": {
+      "Service Provider A": 1200,
+      "Service Provider B": 1600
+    },
+    "Colonoscopy": {
+      "Service Provider A": 800,
+      "Service Provider B": 1200
+    },
+    "Cataract Surgery": {
+      "Service Provider A": null,
+      "Service Provider B": "2000 plus"
+    },
+    "Knee Surgery": {
+      "Service Provider A": null,
+      "Service Provider B": "2000 plus"
+    },
+    "Hip Surgery": {
+      "Service Provider A": null,
+      "Service Provider B": "3000 plus"
+    },
+    "Chemotherapy": {
+      "Service Provider A": "varies",
+      "Service Provider B": "varies"
+    },
+    "Psychiatric Care": {
+      "Service Provider A": null,
+      "Service Provider B": null
+    },
+    "Heart Disease Treatments": {
+      "Bypass Surgery": {
+        "Service Provider A": null,
+        "Service Provider B": null
+      },
+      "Heart Valve Repair/Replacement": {
+        "Service Provider A": null,
+        "Service Provider B": null
+      }
+    }
+  }
+]
